@@ -1,0 +1,58 @@
+//--------------------------------------------------
+//    Componenetes lexicos (tokens) y lexemas
+//--------------------------------------------------
+
+// Operadores relacionales y de asignaciÃ³n
+
+greater_than			>
+greater_equals			>=
+less_than				<
+less_equals				<=
+equals					==
+not_equals				!=
+assignment				=
+
+// Operadores aritmÃ©ticos
+
+add						+
+subtract				-
+multiply				*
+divide					/
+remainder				%
+
+// Operadores lÃ³gicos
+
+and						&&
+or						||
+not						!
+
+//Delimitadores
+
+dot							.
+comma						,
+semicolon					;
+open_parenthesis			(
+closed_parenthesis			)
+open_square_bracket			[
+closed_square_bracket		]
+open_bracket					{
+closed_bracket				}
+end_program					#
+
+// Palabras reservadas
+
+boolean					boolean
+break					break
+do						do
+else					else
+false					false
+for						for
+float					float
+if						if
+int 					int
+main					main
+print					print
+while					while
+true					true
+void					void
+break					break
